@@ -208,7 +208,8 @@ This is a research project. For questions or collaboration:
 [Specify your license - MIT, Apache 2.0, etc.]
 
 ## 🙏 Acknowledgments
-- Dataset provided by [Institution/Source]
+- Dataset provided by Ms Mariem Handous
+- Project supervised by Ms Ines Abdeljaoued Tej
 - Pretrained models from torchvision and timm libraries
 - Computational resources: Google Colab
 
